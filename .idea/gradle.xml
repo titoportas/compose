@@ -11,6 +11,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/compose_interop" />
             <option value="$PROJECT_DIR$/legacy" />
             <option value="$PROJECT_DIR$/ui_compose" />
           </set>

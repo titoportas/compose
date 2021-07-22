@@ -10,3 +10,4 @@ rootProject.name = "andes-compose"
 include ':app'
 include ':legacy'
 include ':ui_compose'
+include ':compose_interop'
